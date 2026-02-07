@@ -4,6 +4,10 @@ A full-featured prediction market trading platform where users bet on the outcom
 
 Think of it as a simplified Polymarket clone: users buy YES or NO shares on questions like "Will BTC be above $110K by Dec 31?" and earn $1 per share if they're right.
 
+![Markets](docs/all_markets.jpg)
+
+![Leaderboard](docs/leader_board.jpg)
+
 ---
 
 ## Quick Start
